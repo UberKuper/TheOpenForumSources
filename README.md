@@ -3,7 +3,8 @@
 </a>
 
 ## List of all resources used by <a href="https://t.me/TheOpenForum">@TheOpenForum</a>
-#### Version: 3.1
+#### Version: 3.19
+
 - [All Topics](#all-topics)
   - [Official English Resources](#official-english-resources)
   - [Official Russian Resources](#official-russian-resources)
