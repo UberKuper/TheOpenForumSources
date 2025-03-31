@@ -120,6 +120,7 @@
 | **Meridian**                               | meridian_wtf     |
 | **Crypto Bot News**                        | CryptoBotEN      |
 | **CAT — TON Validator, Apps and News**     | catchain         |
+| **Ton Trading Bot Announcement**           | TonTradingBot_Annoucement |
 
 
 ## Projects Russian
@@ -133,7 +134,6 @@
 | **DAOLama NFT Lending**                    | daolama                   |
 | **bemo / stTON**                           | bemofinance_rus           |
 | **Farmix**                                 | farmixton                 |
-| **Ton Trading Bot Announcement**           | TonTradingBot_Annoucement |
 | **Новости Crypto Bot**                     | CryptoBotRU               |
 | **Tonex**                                  | Tonex_app                 |
 | **Tonnel Network RU**                      | tonnel_ru                 |
