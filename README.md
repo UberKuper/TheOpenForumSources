@@ -195,7 +195,7 @@
 | **Lost Dogs Co Eng**                       | lostdogscoeng   |
 | **TON Diamonds NFT RUS**                   | tondiamonds_rus |
 | **TON Frogs NFT**                          | tonfrogs        |
-| **✧ Δ ∇ Σ ✧**                              | avenft          |
+| **A V E**                              | avenft          |
 | **G-BOTS by G-LABS**                       | gbotston        |
 | **Getgems NFT**                            | getgems         |
 | **Getgems NFT RU**                         | getgemsrus      |
@@ -230,19 +230,19 @@
 |--------------------------------------------------------|------------------------|
 | **Павел Дуров**                                        | durov_russia          |
 | **Анатолий Макосов**                                   | anatolii_makosov      |
-| **Мысли Пескаря™ / фронтент телефонов**                | PeskarBrain           |
+| **Мысли Пескаря**                | PeskarBrain           |
 | **Ондрей Гойчев (DFW Bals)**                           | ondreigoichev         |
 | **Soft(s)killer**                                      | softskillerr          |
 | **Tonalytics Новости / RU**                            | tonalytics1           |
 | **THE OPEN LEAGUE**                                    | tonaltheopenleagueytics1 |
-| **Karim Iskakov - канал**                              | karim_iskakov         |
+| **Karim Iskakov**                              | karim_iskakov         |
 | **Мысли Семенчука**                                    | semenchuk             |
 | **Vladlen Ton Snipe**                                  | vladlenton            |
 | **TON AirDrop (RU)**                                   | TonAirDrop_ru         |
 | **CryptoSmerkis**                                      | SmerkisCrypto         |
 | **Shadow_of_Gandalf**                                  | whisper_in_the_night  |
 | **notyou**                                            | notyou                |
-| **Investment kingyru 💎**                              | investkingyru         |
+| **Investment kingyru**                              | investkingyru         |
 | **Wutmu о TON**                                        | WutmuTon              |
 | **Я люблю TON**                                        | iloveton2             |
 
@@ -267,7 +267,7 @@
 | Title                                                       | Username            |
 |-------------------------------------------------------------|---------------------|
 | **Стенка**                                                  | stenka             |
-| **TheTONmind Профессионал**                                 | thetonmind         |
+| **TheTONmind**                                 | thetonmind         |
 | **The Daily TON Новости**                                   | thedailytonrus     |
 | **JpegMillionaire**                                         | jpegmillionaire    |
 | **Погружение в TON**                                        | pgrton             |
