@@ -3,7 +3,7 @@
 </a>
 
 ## List of all resources used by <a href="https://t.me/TheOpenForum">@TheOpenForum</a>
-#### Version: 3.19
+#### Version: 4.0
 
 - [All Topics](#all-topics)
   - [Official English Resources](#official-english-resources)
@@ -21,6 +21,7 @@
   - [KOL English](#key-opinion-leader-english)
   - [KOL Russian](#key-opinion-leader-russian)
   - [Education](#education)
+  - [Floodland](#floodland)
   - [External Sources](#external-sources)
   - [Forum News](#forum-news)
   - [Chats](#chats)
@@ -237,7 +238,6 @@
 | **Tonalytics Новости / RU**                            | tonalytics1           |
 | **THE OPEN LEAGUE**                                    | tonaltheopenleagueytics1 |
 | **Karim Iskakov**                              | karim_iskakov         |
-| **Мысли Семенчука**                                    | semenchuk             |
 | **Vladlen Ton Snipe**                                  | vladlenton            |
 | **TON AirDrop (RU)**                                   | TonAirDrop_ru         |
 | **CryptoSmerkis**                                      | SmerkisCrypto         |
@@ -267,7 +267,6 @@
 
 | Title                                                       | Username            |
 |-------------------------------------------------------------|---------------------|
-| **Стенка**                                                  | stenka             |
 | **TheTONmind**                                 | thetonmind         |
 | **The Daily TON Новости**                                   | thedailytonrus     |
 | **JpegMillionaire**                                         | jpegmillionaire    |
@@ -280,20 +279,17 @@
 | **TON PIZ**                                                 | tonpizdev          |
 | **Открытая Лига TON**                                       | leagueru           |
 | **Life in the Crypto**                                      | LifeTheCrypto      |
-| **Канал Таповича / TON**                                    | tapovich_channel   |
 | **ФЕНОМЕН TON**                                             | phenomen_ton       |
 | **ghwnd**                                                   | ghwnd              |
 | **Full Metal Jetton**                                       | full_metal_jetton  |
 | **Sokolovsky inChain**                                      | sokolovskyinchain  |
 | **LEGION**                                                  | LegionTon          |
 | **Георгий Болтовский**                                      | george_boltovsky   |
-| **MR PROTON**                                               | mrprotonshow       |
 | **SCAMscore**                                               | scam_score         |
 | **Deep Ton**                                                | DeepTon            |
 | **Новости The Open League & TON Ecosystem**                 | OpenLeag           |
 | **Kormushka Foundation**                                    | feederfond         |
 | **Болтоши Болтомото**                                       | boltoshi           |
-| **Дайте TON!**                                              | givemetonru        |
 | **Appl Channel**                                            | appl_ton           |
 | **this is TON**                                             | this_is_TON        |
 | **Лёша, TON и HODL**                                        | hodl_ton           |
@@ -309,6 +305,20 @@
 | -------------------------------------------------- | -------------- |
 | **ton_dev~study()**                                | ton_dev_study |
 | **TON_Learn**                                      | ton_learn     |
+
+
+
+## Floodland
+##### <a href="https://t.me/TheOpenForum/885">Thread id: 885</a>
+
+| Title                            | Username          |
+| -------------------------------- | ----------------- |
+| **Стенка**                       | stenka            |
+| **Канал Таповича**               | tapovich_channel  |
+| **Дайте TON!**                   | givemetonru       |
+| **MR PROTON**                    | mrprotonshow      |
+| **Мысли Семенчука**              | semenchuk         |
+| **Uber Kuper**                   | uberkuper         |
 
 
 
